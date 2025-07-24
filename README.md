@@ -22,15 +22,7 @@ The dataset contains 284,807 transactions with only 492 fraud cases, making it h
 2. Place `creditcard.csv` in the `data` folder.  
 3. Run the Jupyter notebook to train and generate predictions:  
 4. (Optional) Use `fraud_predictions.csv` in Power BI for visualization.
-5. 6.Install required packages:
-```bash
-pip install -r requirements.txt
-6. (Optional) To run the Streamlit app for live predictions, open your terminal or PowerShell and execute:  
-```bash
-cd C:\Users\starr\OneDrive\Desktop\fraud_detection_project\app
-streamlit run app.py
-
-
+5. 
 ## Folder Structure
 - `data` - contains original and prediction CSV files  
 - `notebook` - Jupyter notebook with data processing and modeling  
@@ -51,6 +43,14 @@ Computer Science Major
 [Benha National University]  
 [http://www.linkedin.com/in/shahdyasserelsayed]
 
+To install required packages:
+```bash
+pip install -r requirements.txt
+
+(Optional) To run the Streamlit app for live predictions, open your terminal or PowerShell and execute:  
+```bash
+cd C:\Users\starr\OneDrive\Desktop\fraud_detection_project\app
+streamlit run app.py
 
 >>>>>>> c68dbc3 (Initial commit with Git LFS for large CSV files)
 
