@@ -38,7 +38,7 @@ The dataset contains 284,807 transactions with only 492 fraud cases, making it h
 ---
 
 ### Author  
-**Shahd Yasser Elsayed*  
+*Shahd Yasser Elsayed*  
 Computer Science Major  
 [Benha National University]  
 [http://www.linkedin.com/in/shahdyasserelsayed]
