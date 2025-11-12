@@ -1,5 +1,3 @@
-
-=======
 # Fraud Detection on Financial Data
 
 ## Project Description
