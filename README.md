@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 # Fraud Detection on Financial Data
 
